@@ -1,0 +1,16 @@
+Class
+  Meal
+
+Attributes
+  price (float)
+  calorie_content (integer)
+  protein (string)
+  side_dish (string)
+  vegetarian (boolean)
+
+Methods
+  change_protein (changes the protein attribute, changes the price attribute, changes the calorie_content, may change the vegetarian attribute)
+  exchange_side_dish (changes the price attribute, changes the calorie_content attribute, may change the vegetarian attribute)
+  change_market_rate (changes the price attribute)
+  daily_special (can change the price attribute)
+  double_portion (changes the price attribute, changes the calorie_content attribute)

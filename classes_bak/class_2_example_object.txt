@@ -1,0 +1,15 @@
+Instance
+  soda pop
+
+Atrributes
+  calorie_content (120)
+  sugar_content (28)
+  price (1.29)
+  umbrella (false)
+  ingredients (soda, ice)
+
+Methods
+  lower_price_special ( price (.99))
+  add_rum (price (3.99), calorie_content (250), sugar_content (40), ingredients (soda, ice, rum))
+  discontinue_ice (ingerdients (soda))
+  change_to_sugarfree (ingredients (sugar free soda), calorie_content (0), sugar_content (0))

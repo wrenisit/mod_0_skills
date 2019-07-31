@@ -1,0 +1,16 @@
+Instance
+  Fish and Chips
+
+Attributes
+  price (10.99)
+  calorie_content (750)
+  protein ("cod")
+  side_dish ("french fries")
+  vegetarian (false)
+
+Methods
+  change_protein (protein ("halibut"), price (12.99), calorie_content (800))
+  exchange_side_dish (price (11.50), calorie_content (600))
+  change_market_rate (price (11.25))
+  daily_special (price (13.00))
+  double_portion (price (17.00), calorie_content (1500))

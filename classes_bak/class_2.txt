@@ -1,0 +1,15 @@
+Class
+  beverage
+
+Attributes
+  calorie_content (integer)
+  sugar_content (integer)
+  price (float)
+  umbrella (boolean)
+  ingredients (array)
+
+Methods
+  lower_price_special (changes price attribute)
+  add_rum (changes price attribute, changes calorie_content attribute, changes sugar_content attribute, changes ingredients attribute)
+  discontinue_ice (can change ingredients attribute)
+  change_to_sugarfree (can change ingredients attribute, can change calorie_content attribute, can change sugar_content attribute)
